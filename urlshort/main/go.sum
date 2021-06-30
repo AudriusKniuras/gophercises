@@ -1,4 +1,0 @@
-github.com/AudriusKniuras/gophercises v0.0.0-20210630174920-658f38ad6256 h1:uT6X1TJDNO/N3lEQEnIcM3FbLHs3E8JQjv0hPvo92wE=
-github.com/AudriusKniuras/gophercises v0.0.0-20210630174920-658f38ad6256/go.mod h1:Mu7557VZN/EZTj70DooaAXwZD83pAtNogcf38MDWFsI=
-
-replace github.com/AudriusKniuras/gophercises => /Users/t1474/Documents/randomrepos/gocode/src/github.com/AudriusKniuras/gophercises
